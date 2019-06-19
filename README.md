@@ -25,9 +25,11 @@ _Pasos_
 Despues de descargar el proyecto, por favor por consola ubicarse en la carpeta raiz del proyecto
 y ejecutar:
 
-composer update  -> para descargar los complementos necesatios de laravel (vendor)
+composer update  -> para descargar los complementos necesarios de laravel (vendor)
 
-luego las migraciones junto con los respectivos seeds
+despues,  crear una base de datos en mysql llamada prueba 
+
+luego ejecutar las  migraciones junto con los respectivos seeds
 
 php artisan migrate --seed
 
