@@ -22,7 +22,7 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 _Pasos_
 
 ```
-Despues de descargar el proyecto, por favor por consola hubicarsen en la carpeta raiz del proyecto
+Despues de descargar el proyecto, por favor por consola ubicarse en la carpeta raiz del proyecto
 y ejecutar:
 
 composer update  -> para descargar los complementos necesatios de laravel (vendor)
